@@ -8,7 +8,7 @@ brother				He sounds cool.
 no 					That is pretty negative.
 sister				She sound interesting.
 
-My mother has a dog but no cat: That is pretty nagative
+My mother has a dog but no cat: That is pretty negative
 The order of the keyword in the code determines the response.
 
 When a keyword is in another word it responds with the response for that keyword ingnoring context.
